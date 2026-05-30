@@ -9,3 +9,5 @@ flask-cors
 cachetools
 PyJWT
 Pillow
+PyJWT
+aiohttp
